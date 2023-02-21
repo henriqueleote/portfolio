@@ -1,2 +1,2 @@
-# portfolio
-My digital portfolio
+# Portfolio by Leote
+Feel free to inspire yourself
